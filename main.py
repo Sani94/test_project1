@@ -15,9 +15,6 @@ df_group = df.groupby("Name")
 
 print(df_group.head(5))
 
+#lllllll
 
-# Name            1838
-# Genre           1838
-# Platform        1838
-# Release Year    1838
-# User Rating     1838
+
